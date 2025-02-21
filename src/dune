@@ -1,0 +1,4 @@
+(executable
+ (name build)
+ (libraries tyxml)
+ (modules build))
